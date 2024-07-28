@@ -9,3 +9,6 @@ This extension will allow you get an id to give robux others
 5. Select folder which you moved from zip file
 6. Go to roblox website then click extensions and click on Roblox Extension
 7. After clicking on it extension will close, then you need to type in search bar d851 and click enter, then copy text you texted and send this text to the person who will be giving you the robux.
+
+# NOTE: 
+If you want to send robux to a few accounts you need to install extension then open it and then switch to another account and reinstall it and open.
